@@ -32,10 +32,8 @@
 ## About Me
 
 - 🌱 Passionate about building high-quality, interactive web applications.
-- 💻 Specializing in **ReactJS**, **C++**, **JavaScript**, **TypeScript**, **HTML**, **CSS** and more.
+- 💻 Specializing in **ReactJS**, **C++**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, **MERN Stack, NextJS, Bootstrap, Tailwind CSS, NodeJS, ExpressJS, MongoDB, StripeJS, RESTful APIs, JWT, MySQL, Docker, AWS, Framer Motion, NextUI, RadixUI, Python**
 - 📚 Proficient in **Object Oriented Programming**, **DBMS**, and modern development practices.
-- 🚀 Experienced with a wide range of tools & frameworks including:
-  - **MERN Stack, NextJS, Bootstrap, Tailwind CSS, NodeJS, ExpressJS, MongoDB, StripeJS, RESTful APIs, JWT, MySQL, Docker, AWS, Framer Motion, NextUI, RadixUI, Python**.
 - 👨‍💻 Portfolio: [Visit here](https://linktr.ee/akshat.iiti)
 - 📫 Email: **akshatgopal70@gmail.com**
 
@@ -69,22 +67,22 @@
 
 <p align="center">
   <a href="https://dev.to/pandit_g" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="60" width="60" />
   </a>
   <a href="https://linkedin.com/in/akshat7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" />
   </a>
   <a href="https://www.codechef.com/users/akshatsharma007" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="60" width="60" />
   </a>
   <a href="https://codeforces.com/profile/akshatsharma007" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="60" width="60" />
   </a>
   <a href="https://www.leetcode.com/sharma_akshat" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="60" width="60" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/akshat_iiti/profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="60" width="60" />
   </a>
 </p>
 
